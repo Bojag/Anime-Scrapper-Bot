@@ -4,7 +4,7 @@ import os
 
 
 client = commands.Bot(command_prefix = "$")
-TOKEN = "Add Your Bot Token here"
+TOKEN = ""
 
 @client.event
 async def on_ready():
